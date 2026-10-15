@@ -6,6 +6,7 @@
 <title>HZ Security System Enterprise | CCTV, Autogate, Alarm, Aircond & Elektrik</title>
 <meta name="description" content="HZ Security System Enterprise: pemasangan baru dan baik pulih CCTV, autogate, alarm, door access, intercom, barrier gate, PABX, networking, aircond, elektrik dan renovasi rumah. Hubungi terus melalui WhatsApp 017-229 1807.">
 <meta name="theme-color" content="#0A1030">
+<script>if (/[?&]embed\b/.test(location.search)) document.documentElement.classList.add("embed");</script>
 <meta property="og:type" content="website">
 <meta property="og:image" content="assets/logo.png">
 <meta property="og:title" content="HZ Security System Enterprise">
@@ -232,6 +233,22 @@
     .nav .btn-sm span { display: none; }
     .nav .btn-sm { padding: 0 12px; }
   }
+  /* ---------- Mod embed (?embed): grid perkhidmatan sahaja, untuk Google Sites ---------- */
+  .embed .nav, .embed .hero, .embed #cara, .embed #hubungi, .embed footer, .embed .fab, .embed .kicker { display: none; }
+  .embed body::before { display: none; }
+  .embed .section { padding-block: 20px 24px; }
+  .embed .section-head { margin-bottom: 16px; }
+  .embed .section-head h2 { margin-top: 0; font-size: 22px; }
+  .embed .section-head p { font-size: 14px; }
+  .embed .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .embed .svc { align-items: center; gap: 8px; padding: 14px 6px; text-align: center; }
+  .embed .svc p, .embed .svc .go { display: none; }
+  .embed .svc h3 { font-size: 13px; }
+  .embed .svc .ic { width: 46px; height: 46px; }
+  .embed .svc .ic svg { width: 28px; height: 28px; }
+  @media (min-width: 640px) { .embed .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; } .embed .svc h3 { font-size: 14.5px; } }
+  @media (min-width: 960px) { .embed .grid { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
     html { scroll-behavior: auto; }

@@ -11,3 +11,7 @@ Pelanggan pilih perkhidmatan (CCTV, Autogate, Alarm, Door Access, Intercom, Barr
 - Logo dan gambar: folder `assets/`.
 
 Laman ini dihoskan oleh GitHub Pages (Settings → Pages → Deploy from a branch → `main` / root).
+
+## Embed dalam Google Sites
+
+Guna `https://ayyadzainuddin88.github.io/hz-security-system/?embed=1`: hanya grid perkhidmatan dan pilihan Repair / Pemasangan Baru dipaparkan, sesuai untuk kotak Embed (tinggi ±700px).
