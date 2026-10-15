@@ -1,6 +1,6 @@
 # HZ Security System Enterprise
 
-Landing page rasmi: **https://ayyadzainuddin88.github.io/hz-security-system/**
+Landing page rasmi: **https://hzsecuritysystem.com**
 
 Pelanggan pilih perkhidmatan (CCTV, Autogate, Alarm, Door Access, Intercom, Barrier Gate, PABX, Networking, Aircond, Electrical, Gate, Home Renovation), pilih **Ada Masalah / Repair** atau **Pemasangan Baru**, dan terus dibawa ke WhatsApp **017-229 1807** dengan mesej yang siap ditulis.
 
@@ -14,4 +14,4 @@ Laman ini dihoskan oleh GitHub Pages (Settings → Pages → Deploy from a branc
 
 ## Embed dalam Google Sites
 
-Guna `https://ayyadzainuddin88.github.io/hz-security-system/?embed=1`: hanya grid perkhidmatan dan pilihan Repair / Pemasangan Baru dipaparkan, sesuai untuk kotak Embed (tinggi ±700px).
+Guna `https://hzsecuritysystem.com/?embed=1`: hanya grid perkhidmatan dan pilihan Repair / Pemasangan Baru dipaparkan, sesuai untuk kotak Embed (tinggi ±700px).
