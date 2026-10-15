@@ -1,0 +1,3 @@
+# Laman statik: tiada build, terbitkan folder akar repo.
+[build]
+  publish = "."
